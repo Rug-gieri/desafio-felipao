@@ -1,3 +1,5 @@
-console.log("vamo filhao vamo fun")
+//Sempre que sentir ConstantSourceNode, sonhe
 
-teste de alteração 
+console.log("vamo filhao vamo funcionar")
+
+console.log("Esse vai ser o melhor ano da minha vida")
